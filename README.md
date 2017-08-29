@@ -1,6 +1,6 @@
-# machine-learning
+# artificial intelligence (AI)
 
-## Framework
+## machine-learning
 
 ## data mining
 
