@@ -1,4 +1,6 @@
 ## Xu hướng big data cho dịch vụ tài chính
+Source: mapr.com
+
 ### 1. Lượng dữ liệu để thực hiện quản lý đám mây trong tài chính
 Việc chuyển sang dùng cloud trong lĩnh vực tài chính tưởng như không thể nhưng thực tế nó lại đang diễn ra, bắt đầu từ private cloud, và giờ đây đang chuyển dần sang hybrid cloud.
 Lượng dữ liệu phát sinh trong quản lý các cloud là rất lớn, nên vấn đề big data management được quan tâm rất nhiều, đó là những loại hoạt động như: updating, synchronizing, and governing data assets.
