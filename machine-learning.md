@@ -24,6 +24,7 @@ https://www.infoworld.com/article/3219369/machine-learning/microsofts-project-br
 ## Top interested in machine learning
 
 Source: *Find Your Machine Learning Tribe* by Jason Brownlee.
+
 In this post you will discover the 10 main groups of people interested in machine learning. I call them ***machine learning tribes***.
 
 Here’s a quick snapshot of the 10 tribes:
