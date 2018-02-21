@@ -12,12 +12,24 @@ https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses
 
 https://machinelearningmastery.com/start-here/
 
+***What programming language should aspiring data scientists learn?***
+
+https://towardsdatascience.com/what-programming-language-should-aspiring-data-scientists-learn-875017ad27e0
+
+
+
 
 ## frameworks
 
-13 frameworks for mastering machine learning
+- 13 frameworks for mastering machine learning
 
 https://www.infoworld.com/article/3026262/machine-learning/13-frameworks-for-mastering-machine-learning.html
+
+- Interpreting machine learning models
+
+https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f
+
+
 
 ## Projects
 
@@ -51,3 +63,27 @@ Here’s a quick snapshot of the 10 tribes:
 - ***Data Tribes***
 9) Data Scientist interested in Getting Better Answers to Business Questions
 10) Data Analyst interested in Better Explaining Data
+
+## Sharing and Story
+
+- 12 Useful Things to Know about Machine Learning
+
+https://towardsdatascience.com/12-useful-things-to-know-about-machine-learning-487d3104e28
+
+- The best data science learning resources out there and my journey into data science
+
+https://towardsdatascience.com/the-best-data-science-learning-resources-out-there-and-my-journey-into-data-science-81c5a6ec67bc
+
+- Super Simple Machine Learning
+https://towardsdatascience.com/super-simple-machine-learning-by-me-multiple-linear-regression-part-1-447800e8b624
+
+- Python For Sport Scientists: Descriptive Statistics
+
+https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c
+
+- My journey into Deep Learning
+
+https://towardsdatascience.com/my-journey-into-deep-learning-c66e6ef2a317
+
+
+
