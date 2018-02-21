@@ -16,6 +16,9 @@ https://machinelearningmastery.com/start-here/
 
 https://towardsdatascience.com/what-programming-language-should-aspiring-data-scientists-learn-875017ad27e0
 
+***Machine Learning From Scratch:***
+https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6
+
 
 
 
@@ -36,9 +39,16 @@ https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f
 https://www.infoworld.com/article/3219369/machine-learning/microsofts-project-brainwave-accelerates-deep-learning-in-azure.html
 
 ## Algorithms
+
 - A Tour of The Top 10 Algorithms for Machine Learning Newbies
 
 https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+- Introduction to Evolutionary Algorithms
+
+https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac
+
+
 
 
 
@@ -84,6 +94,16 @@ https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistic
 - My journey into Deep Learning
 
 https://towardsdatascience.com/my-journey-into-deep-learning-c66e6ef2a317
+
+- Detecting Pikachu on Android using Tensorflow Object Detection
+
+https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd
+
+- List of Free Must-Read Machine Learning Books
+
+https://towardsdatascience.com/list-of-free-must-read-machine-learning-books-89576749d2ff
+
+
 
 
 
