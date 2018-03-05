@@ -14,6 +14,13 @@ https://medium.com/@luisotviomartins/luis-otavio-martins-ed7335e791b2
 
 https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 
+## Framework
+
+## Algorithms
+- The 5 Clustering Algorithms Data Scientists Need to Know
+https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+
+
 ## List of Must — Read Free Data Science Books
 
 - Foundations of Data Science, *Authors: Blum, Hopcroft and Kannan*
