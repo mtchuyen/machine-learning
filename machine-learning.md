@@ -38,6 +38,9 @@ https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f
 
 https://www.infoworld.com/article/3219369/machine-learning/microsofts-project-brainwave-accelerates-deep-learning-in-azure.html
 
+- Build a machine learning image classifier from photos on your hard drive very quickly
+https://blog.machinebox.io/how-anyone-can-build-a-machine-learning-image-classifier-from-photos-on-your-hard-drive-very-5c20c6f2764f
+
 ## Algorithms
 
 - A Tour of The Top 10 Algorithms for Machine Learning Newbies
