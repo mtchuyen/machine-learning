@@ -30,6 +30,12 @@ https://medium.freecodecamp.org/practical-data-science-tinker-tailor-soldier-spy
 
 - [The Algorithmization of Payments](https://towardsdatascience.com/the-algorithmization-of-payments-how-algorithms-are-going-to-change-the-payments-industry-5dd3f266d4c3)
 
+## Data Pre-Processing
+- [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://medium.com/@ernestk.social/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
+
+## Guide
+- Series: [Another Twitter sentiment analysis with Python ](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867)
+
 
 ## List of Must — Read Free Data Science Books
 
@@ -45,5 +51,10 @@ https://medium.freecodecamp.org/practical-data-science-tinker-tailor-soldier-spy
 - CIML, *Author: Hal Daumé III*
 
 https://towardsdatascience.com/list-of-must-read-free-data-science-books-bfae4c5c5a16
+
+## Job
+
+- [The two sides of Getting a Job as a Data Scientist](https://towardsdatascience.com/the-two-sides-of-getting-a-job-as-a-data-scientist-a4571acc58bc)
+
 
 
