@@ -34,6 +34,7 @@ https://medium.freecodecamp.org/practical-data-science-tinker-tailor-soldier-spy
 - [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://medium.com/@ernestk.social/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
 
 ## Guide
+- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - Series: [Another Twitter sentiment analysis with Python ](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867)
 
 
