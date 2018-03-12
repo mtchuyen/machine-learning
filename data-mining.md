@@ -14,11 +14,17 @@ https://medium.com/@luisotviomartins/luis-otavio-martins-ed7335e791b2
 
 https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 
+## Time Series Analysis
+
+- [Time Series Analysis in Python: An Introduction](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
+
+
 ## Framework
 
 ## Algorithms
-- The 5 Clustering Algorithms Data Scientists Need to Know
-https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+- [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+
+- [The Algorithmization of Payments](https://towardsdatascience.com/the-algorithmization-of-payments-how-algorithms-are-going-to-change-the-payments-industry-5dd3f266d4c3)
 
 
 ## List of Must — Read Free Data Science Books
