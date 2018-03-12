@@ -14,6 +14,10 @@ https://medium.com/@luisotviomartins/luis-otavio-martins-ed7335e791b2
 
 https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 
+***Practical data science: tinker, tailor, soldier, spy***
+https://medium.freecodecamp.org/practical-data-science-tinker-tailor-soldier-spy-5c23401999fe
+
+
 ## Time Series Analysis
 
 - [Time Series Analysis in Python: An Introduction](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
