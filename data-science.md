@@ -30,6 +30,8 @@ https://medium.freecodecamp.org/practical-data-science-tinker-tailor-soldier-spy
 
 - [The Algorithmization of Payments](https://towardsdatascience.com/the-algorithmization-of-payments-how-algorithms-are-going-to-change-the-payments-industry-5dd3f266d4c3)
 
+- [Ten Machine Learning Algorithms You Should Know to Become a Data Scientist] (https://hackernoon.com/ten-machine-learning-algorithms-you-should-know-to-become-a-data-scientist-c11a3e735f93)
+
 ## Data Pre-Processing
 - [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://medium.com/@ernestk.social/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
 
