@@ -50,8 +50,20 @@ https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learn
 - Introduction to Evolutionary Algorithms
 
 https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac
-
-
+- [The complete list of algorithms is provided below](https://machinelearningmastery.com/start-with-gradient-boosting/).
++ Gaussian Naive Bayes (GNB)
++ Bernoulli Naive Bayes (BNB)
++ Multinomial Naive Bayes (MNB)
++ Logistic Regression (LR)
++ Stochastic Gradient Descent (SGD)
++ Passive Aggressive Classifier (PAC)
++ Support Vector Classifier (SVC)
++ K-Nearest Neighbor (KNN)
++ Decision Tree (DT)
++ Random Forest (RF)
++ Extra Trees Classifier (ERF)
++ AdaBoost (AB)
++ Gradient Tree Boosting (GTB)
 
 
 
