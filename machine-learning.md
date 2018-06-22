@@ -17,7 +17,14 @@ https://machinelearningmastery.com/start-here/
 https://towardsdatascience.com/what-programming-language-should-aspiring-data-scientists-learn-875017ad27e0
 
 ***Machine Learning From Scratch:***
+
 https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6
+
+***Con đường học tập Machine Learning của tôi***
+
+https://ongxuanhong.wordpress.com/2017/05/18/con-duong-hoc-tap-machine-learning-cua-toi/
+
+https://ongxuanhong.wordpress.com/2015/06/10/machine-learning-la-gi/
 
 
 
@@ -117,6 +124,11 @@ https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-obj
 - List of Free Must-Read Machine Learning Books
 
 https://towardsdatascience.com/list-of-free-must-read-machine-learning-books-89576749d2ff
+
+
+## Referral
+
+https://ongxuanhong.wordpress.com/category/data-science/machine-learning/
 
 
 
