@@ -11,8 +11,10 @@ Ví dụ:
 
 Khái niệm về khai phá dữ liệu (Data Mining) hay khám phá tri thức (Knowledge Discovery) có rất nhiều cách diễn đạt khác nhau nhưng về bản chất đó là quá trình tự động trích xuất thông tin có giá trị (Thông tin dự đoán - Predictive Information) ẩn chứa trong khối lượng dữ liệu khổng lồ trong thực tế.
 
-grapTD;
+```mermaid
+grap DM;
 A[Data (Information)] --> B[Data Mining] --> C[Models (Knowledge)]
+```
 
 ## Quy trình khai thác dữ liệu (Data Mining Process)
 
