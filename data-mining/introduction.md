@@ -16,7 +16,7 @@ A [Data (Information)] --> B [Data Mining] --> C [Models (Knowledge)];
 ```
 Data mining nhấn mạnh 2 khía cạnh chính đó là khả năng trích xuất thông tin có ích Tự động (Automated) và thông tin mang tính dự đoán (Predictive).
 
-![discovery-process-data-mining](../images/knowledge-discovery-process-data-mining.png)
+![discovery-process-data-mining](./images/knowledge-discovery-process-data-mining.png)
 
 
 ## Ứng dụng của Data Mining:
