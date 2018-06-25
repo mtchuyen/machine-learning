@@ -18,6 +18,39 @@ Data mining nhấn mạnh 2 khía cạnh chính đó là khả năng trích xu�
 
 ![discovery-process-data-mining](./images/knowledge-discovery-process-data-mining.png)
 
+## Tại sao cần khai phá dữ liệu (Data mining)
+Hiện nay với sự phát triển ngành công nghiệp, mạng xã hội bùng nổ, thông tin, dữ liệu có mặt và xuất hiện xung quanh chúng ta. Sự gia tăng bùng nổ của dữ liệu từ mức độ terabytes đến mức độ petabytes.
+
+Thu thập dữ liệu và sự tồn tại của dữ liệu: các công cụ thu thập dữ liệu tự động, các hệ thống cơ sở dữ liệu, world wide web, xã hội số, facebook v.v.v
+
+Các nguồn dữ liệu phong phú:
+- Kinh doanh: internet, thương mại điện tử, giao dịch thương mại, chứng khoán.
+- Khoa học: tín hiệu cảm biến, thí nghiệm mô phỏng/ giả lập.
+- Xã hội: tin tức, máy ảnh số, các mạng xã hội.
+
+Chúng ta hoàn toàn bị tràn ngập trong dữ liệu, các dữ liệu rất quan trọng, bị bỏ thừa và không được tận dụng hết nguồn dữ liệu lớn. Do đó chúng ta cần khai phá, phân tích dữ liệu để tìm kiếm và khám phá ra những điều đã bỏ lỡ, những tri thức.
+
+***Nói tóm gọn lại:*** Khai phá dữ liệu (Data mining) là rút trích dữ liệu hoặc các *tri thức quan trọng* từ một lượng dữ liệu khổng lồ. Và quan trọng ở đây là không tầm thường, ẩn, chưa được biết đến và mang tính hữu ích trong quá trình phân tích.
+
+***Phân tích dữ liệu và hỗ trợ quyết định:***
+- Phân tích và quản lý thị trường: Quảng cáo cá nhân (target marketing), Quản lý quan hệ khách hàng (CRM), phân tích thị trường, phân tích giỏ hàng, phân tích bán hàng, sự phân chia thị trường.
+- Phân tích và quản lý rủi ro: dự đoán, giữ khách hàng, phân tích cạnh tranh.
+- Phát hiện gian lận và các mẫu giá trị bất thường (outliers)
+
+***Các ứng dụng khác:***
+- Khai phá văn bản (nhóm tin, email, tài liệu v.v.v)
+- Khai phá web
+- Khai phá dữ liệu luồng (chuỗi) v.v.v
+
+Và thông thường sau những lợi ích trên thì mọi người sẽ đặt câu hỏi dữ liệu lấy từ đâu?? Nguồn dữ liệu được tập hợp từ nhiều nguồn ví dụ như các giao dịch sử dụng thẻ tín dụng cũng là nguồn dữ liệu, các cuộc gọi phàn nàn từ khách hàng, các thẻ khách hàng thường xuyên, các phiếu giảm giá , những kiểu khách hàng nào mua những mặt hàng nào v.v.v đó là những nguồn dữ liệu mà bạn có thể tận dụng để phân tích trong môi trường kinh doanh cạnh tranh khốc liệt như hiện nay.
+
+***Các vấn đề thách thức:*** và để làm được chuyện trên thì chúng ta phải trải qua nhiều quy trình.
+- Tính hiệu quả và tính ổn định của các giải thuật khai phá dữ liệu.
+- Xử lý với dữ liệu có số chiều, số thuộc tính lớn
+- Xử lý dữ liệu chứa nhiều lỗi, không chắc chắn, không hoàn chỉnh
+- Tích hợp khai phá dữ liệu và các thiết bị hoạt động
+- Bảo đảm tính an ninh, toàn vẹn, riêng tư trong khai phá dữ liệu
+
 
 ## Ứng dụng của Data Mining:
 
@@ -98,9 +131,23 @@ Data mining liên quan chặt chẽ đến các lĩnh vực sau:
 - K-Means: Thuật toán K-Means (Clustering Task)
 
 ## Các công cụ Data Mining
-- SQL Analyzer
-- Intelligence Miner (IBM)
-- SPSS
+
+***Các yêu cầu đối với bộ công cụ khai phá dữ liệu:***
+- một giao diện trực quan cho phép người dùng tận dụng các thuật toán thống kê và khai thác dữ liệu mà không cần lập trình.
+- cung cấp thuật toán để xây dựng mô hình dự báo và mô tả, cùng với một giao diện đồ họa và các yếu tố khác để hợp lý hóa quá trình khai thác dữ liệu ngay từ khâu chuẩn bị dữ liệu để tìm ra mô hình cho kết quả tốt nhất.
+- hiệu suất cao
+- mô hình dự báo có thể sẽ được tích hợp trong thời gian thực và tự động cập nhật.
+- Có khả năng cho điểm
+
+***Các tính năng cần có của bộ công cụ khai phá dữ liệu:***
+- Các tính năng bao gồm: tự động phân loại, phân nhóm tự động, phát hiện bất thường, apriori, mạng Bayes , Carma, hồi quy Cox, danh sách quyết định, phân tích nhân tố / PCA, lựa chọn tính năng, K- phương tiện, Kohonen, hai bước, phân biệt, máy vector hỗ trợ(SVM ), KNN, mạng Nơ-ron.
+- Các chức năng khai thác dữ liệu: thuộc tính quan trọng, phân khúc, phân nhóm, dự báo, và các dữ liệu luật kết hợp.
+
+***Các định dạng dữ liệu được dùng để khai phá:***
+- Dữ liệu văn bản
+- Dữ liệu lưu trong định dạng excel.
+- Dữ liệu SQL
 
 ## Referral:
-[Data Mining là gì?](http://forums.bsdinsight.com/threads/data-mining-la-gi.1007/)
+- [Data Mining là gì?](http://forums.bsdinsight.com/threads/data-mining-la-gi.1007/)
+- [Tại sao cần khai phá dữ liệu (Data mining)](http://forums.bsdinsight.com/threads/tai-sao-can-khai-pha-du-lieu-data-mining.7830/)
