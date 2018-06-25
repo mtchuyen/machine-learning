@@ -151,3 +151,5 @@ Data mining liên quan chặt chẽ đến các lĩnh vực sau:
 ## Referral:
 - [Data Mining là gì?](http://forums.bsdinsight.com/threads/data-mining-la-gi.1007/)
 - [Tại sao cần khai phá dữ liệu (Data mining)](http://forums.bsdinsight.com/threads/tai-sao-can-khai-pha-du-lieu-data-mining.7830/)
+- [Khai phá dữ liệu – Data Mining là gì?](http://kythuatlaptrinh.com/2016/11/29/khai-pha-du-lieu-data-mining-la-gi/)
+
