@@ -96,8 +96,14 @@ Deep learning chỉ là một phương pháp nằm trong hướng giải quyết
 - Để áp dụng DL, bạn cần tiến hành nhiều thực nghiệm như tiền xử lý dữ liệu, lựa chọn số node, số layer, thiết kế mô hình CNN, RNN, LSTM, dùng nhiều loại activate function để so sánh hiệu suất, áp dụng tỉa node,… Do vậy đã có quá nhiều mẫu thiết kế khác nhau về DL apply vào các hội nghị AI nên ta đã dành cho DL những conference riêng để báo cáo khoa học. Nói như vậy không có nghĩa là DL giải quyết được mọi vấn đề.
 
 ## data mining
+Khai thác dữ liệu (Data mining) được dùng như là một nền tảng cho trí thông minh nhân tạo và học máy. Gần đây, các công ty nghiên cứu thị trường sử dụng nền tảng này để tạo lập các báo cáo nên thuật ngữ này được biết đến nhiều hơn.
+Trong thực tế, khai thác dữ liệu, trí thông minh nhân tạo được gắn bó chặt chẽ đến nỗi khó thiết lập xếp hạng hoặc phân cấp giữa ba thứ. Chúng có mối quan hệ cộng sinh, nhờ việc kết hợp các phương pháp của ba vấn đề này giúp cho kết quả có được đạt độ chính xác cao hơn.
 
-## data-driven
+Lấy ví dụ về AI, các giải pháp về AI không được mã hóa cứng (hardcoded) vào trong chương trình, thay vào đó thông tin (information) sẽ được mã hóa (theo định dạng – patterns) và AI sẽ sử dụng dữ liệu đó và tính toán để tự mình đưa ra giải pháp.  Data mining chính là phần nằm bên trong cách chương trình mã hóa thông tin ở đây.
+
+Chu kỳ công nghệ (cycle of technology) có thể xem như sau:
+
+![](./images/cycle-tech-BD-DM-ML-AI.jpg)
 
 ## Application
 
