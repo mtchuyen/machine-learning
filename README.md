@@ -103,6 +103,13 @@ Lấy ví dụ về AI, các giải pháp về AI không được mã hóa cứn
 
 Chu kỳ công nghệ (cycle of technology) có thể xem như sau:
 
+Nguồn:
+```Big Data in Organizations and the Role of Human Resource Management
+A Complex Systems Theory-Based Conceptualization
+Series: Personalmanagement und Organisation
+Tobias M. Scholz
+```
+
 ![](./images/cycle-tech-BD-DM-ML-AI.jpg)
 
 ## Application
