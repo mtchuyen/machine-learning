@@ -1,3 +1,14 @@
+### Data Science là làm gì
+
+- Nghiên cứu mô hình: mô hình kình doanh của tổ chức, mô hình phát triển,… các loại mô hình.
+- Lấy và làm sạch dữ liệu, chuyển đổi thành thông tin hữu ích
+- Phân tích, đánh giá sơ lược dữ liệu thu thập được (Exploratory Data Analytics)
+- Suy diễn thông tin có ý nghĩa từ tập dữ liệu thu thập (Statistical inference)
+- Xây dựng hệ thống hỗ trợ ra quyết định để giải quyết vấn đề
+
+*Nguồn “Data Science – Mỏ vàng của Kỉ nguyên số”, Ông Xuân Hồng*
+
+
 ***[Bob Violino] Data mining is the automated process of sorting through huge data sets to identify trends and patterns and establish relationships***
 
 https://www.infoworld.com/article/3218151/data-mining/what-is-data-mining-how-analytics-uncovers-insights.html
